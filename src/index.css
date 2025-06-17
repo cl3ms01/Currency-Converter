@@ -1,0 +1,14 @@
+.container {
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 20px;
+  text-align: center;
+  font-family: sans-serif;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+input, select {
+  padding: 10px;
+  margin: 10px;
+}
